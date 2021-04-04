@@ -1,2 +1,3 @@
 venv/
-# cred/cred.json
+__pycache__/
+cred/cred.json
